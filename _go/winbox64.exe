@@ -1,5 +1,4 @@
 ---
 goto: https://download.mikrotik.com/routeros/winbox/3.43/winbox64.exe
-redirect_to:
-  - https://download.mikrotik.com/routeros/winbox/3.43/winbox64.exe
+layout: redirect
 ---
